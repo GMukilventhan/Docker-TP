@@ -29,6 +29,6 @@ NB: On peut désigner un conteneur soit par le nom qu’on lui a donné, soit pa
 Le nom d’un conteneur doit être unique (à ne pas confondre avec le nom de l’image qui est le modèle utilisé à partir duquel est créé le conteneur).
 
 Créez un conteneur avec le nom ``` debian2``` 
-``` docker run debian -d --name debian2 sleep 500``` 
-Lancez un conteneur debian en mode interactif (``` options -i -t)```  avec la commande ``` /bin/bash ``` et le nom ``` debian_interactif``` .
-Explorer l’intérieur du conteneur : il ressemble à un OS Linux Debian normal.
+#### ``` docker run debian -d --name debian2 sleep 500``` 
+#### Lancez un conteneur debian en mode interactif (``` options -i -t)```  avec la commande ``` /bin/bash ``` et le nom ``` debian_interactif``` .
+#### Explorer l’intérieur du conteneur : il ressemble à un OS Linux Debian normal.
