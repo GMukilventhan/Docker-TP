@@ -1,5 +1,7 @@
 # Docker-TP
 
+les TD's proposent une série d'exercices pratiques pour découvrir l'utilisation de Docker.
+
 ## Sujet 
 
 - TP 1 - Découverte de Docker 
