@@ -2,5 +2,6 @@
 
 ## Manipuler un conteneur
 
-Commandes utiles : https://devhints.io/docker
-Documentation docker run : https://docs.docker.com/engine/reference/run/
+- Commandes utiles : https://devhints.io/docker
+- Documentation docker run : https://docs.docker.com/engine/reference/run/
+
